@@ -1,0 +1,1172 @@
+{
+    "dealers": [{
+        "DealerNumber": "206890",
+        "ASARanking": "1",
+        "Name": "AutoNation Honda Fremont",
+        "InternetManager": "Ali Hashemi",
+        "Address": "5780 Cushing Pkwy",
+        "City": "Fremont",
+        "State": "CA",
+        "ZipCode": "945383290",
+        "Phone": "5104455300 ",
+        "SalesHours": [{
+            "Days": "Mon-Sat",
+            "Hours": "9:00AM-9:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-8:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.autonationhondafremont.com",
+        "Latitude": 37.500732,
+        "Longitude": -121.97798,
+        "DrivingDistanceMiles": 3.9,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "BV",
+            "Name": "Battery Electric Vehicle",
+            "Description": "Dealer is authorized for Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "06",
+            "Name": "Child Safety Day",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "BC",
+            "Name": "Clarity Battery Electric Vehic",
+            "Description": "Dealer is authorized for Clarity Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "HC",
+            "Name": "Council of Excellence Award",
+            "Description": "This dealership has earned the Council of Excellence award from Honda Financial Services.",
+            "FullDescription": null
+        }, {
+            "Code": "04",
+            "Name": "GX Fleet",
+            "Description": "Dealer is authorized for GX Fleet Sales",
+            "FullDescription": null
+        }, {
+            "Code": "45",
+            "Name": "GX Retail",
+            "Description": "Dealer is authorized for GX Retail Sales",
+            "FullDescription": null
+        }, {
+            "Code": "05",
+            "Name": "GX Service",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "GS",
+            "Name": "Honda Environment Award Silver",
+            "Description": "Honda Environmental Leadership Award - Silver Level",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "MC",
+            "Name": "Masters Circle",
+            "Description": "\"Honda Masters Circle dealerships achieved superior sales performance, ranking top 50 in the nation.",
+            "FullDescription": null
+        }, {
+            "Code": "11",
+            "Name": "Oil Certified",
+            "Description": "Dealer purchases Honda Genuine Oil",
+            "FullDescription": null
+        }, {
+            "Code": "13",
+            "Name": "PAX Certified Service",
+            "Description": "Dealers Certified to Service PAX Tires",
+            "FullDescription": null
+        }, {
+            "Code": "EV",
+            "Name": "Plug-in Hybrid Electric Vehicl",
+            "Description": "Dealer is authorized for Plug-in Hybrid Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }, {
+            "Code": "12",
+            "Name": "Tire Certified",
+            "Description": "Dealer purchases Honda Genuine Tires",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "208845",
+        "ASARanking": "",
+        "Name": "Hayward Honda",
+        "InternetManager": null,
+        "Address": "24919 Mission Blvd",
+        "City": "Hayward",
+        "State": "CA",
+        "ZipCode": "945442512",
+        "Phone": "5105821300 ",
+        "SalesHours": [],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "",
+        "Latitude": 37.659916,
+        "Longitude": -122.07413,
+        "DrivingDistanceMiles": 8.4,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "208059",
+        "ASARanking": "",
+        "Name": "Anderson Honda",
+        "InternetManager": "Internet Department",
+        "Address": "1766 Embarcadero Rd",
+        "City": "Palo Alto",
+        "State": "CA",
+        "ZipCode": "943033302",
+        "Phone": "6508436030 ",
+        "SalesHours": [{
+            "Days": "Mon-Sat",
+            "Hours": "9:00AM-8:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-8:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "http://www.andersonhonda.com",
+        "Latitude": 37.450684,
+        "Longitude": -122.11767999999999,
+        "DrivingDistanceMiles": 10.1,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "BV",
+            "Name": "Battery Electric Vehicle",
+            "Description": "Dealer is authorized for Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "BC",
+            "Name": "Clarity Battery Electric Vehic",
+            "Description": "Dealer is authorized for Clarity Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "46",
+            "Name": "CVA Enhanced Purchase Program",
+            "Description": "Dealer is participating in CVA Enhanced Purchase Program",
+            "FullDescription": null
+        }, {
+            "Code": "22",
+            "Name": "DEALER LONG TERM DEBT NOTE FL",
+            "Description": "DEALER HAS LONG TERM DEBT NOTE",
+            "FullDescription": null
+        }, {
+            "Code": "09",
+            "Name": "Express Service Program",
+            "Description": "Dealer Participates in the Express Service Program",
+            "FullDescription": null
+        }, {
+            "Code": "FC",
+            "Name": "Fuel Cell Authorized",
+            "Description": "Dealer is authorized for Honda Fuel Cell Vehicle Sales and Lease",
+            "FullDescription": null
+        }, {
+            "Code": "04",
+            "Name": "GX Fleet",
+            "Description": "Dealer is authorized for GX Fleet Sales",
+            "FullDescription": null
+        }, {
+            "Code": "45",
+            "Name": "GX Retail",
+            "Description": "Dealer is authorized for GX Retail Sales",
+            "FullDescription": null
+        }, {
+            "Code": "05",
+            "Name": "GX Service",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "03",
+            "Name": "Honda Test Drive Enabled",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "11",
+            "Name": "Oil Certified",
+            "Description": "Dealer purchases Honda Genuine Oil",
+            "FullDescription": null
+        }, {
+            "Code": "13",
+            "Name": "PAX Certified Service",
+            "Description": "Dealers Certified to Service PAX Tires",
+            "FullDescription": null
+        }, {
+            "Code": "EV",
+            "Name": "Plug-in Hybrid Electric Vehicl",
+            "Description": "Dealer is authorized for Plug-in Hybrid Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }, {
+            "Code": "12",
+            "Name": "Tire Certified",
+            "Description": "Dealer purchases Honda Genuine Tires",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "208776",
+        "ASARanking": "",
+        "Name": "Piercey Honda",
+        "InternetManager": null,
+        "Address": "920 Thompson St",
+        "City": "Milpitas",
+        "State": "CA",
+        "ZipCode": "950356296",
+        "Phone": "4083247400 ",
+        "SalesHours": [{
+            "Days": "Mon-Sat",
+            "Hours": "9:00AM-9:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-9:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.pierceyhonda.com",
+        "Latitude": 37.419201,
+        "Longitude": -121.9119,
+        "DrivingDistanceMiles": 10.5,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "OD",
+            "Name": "Online Retailing Dealer",
+            "Description": "This dealership participates in the Honda Online Retailing program",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "207254",
+        "ASARanking": "",
+        "Name": "Dublin Honda",
+        "InternetManager": "Tito Perez",
+        "Address": "6300 Dublin Blvd",
+        "City": "Dublin",
+        "State": "CA",
+        "ZipCode": "945687657",
+        "Phone": "9258288030 ",
+        "SalesHours": [{
+            "Days": "Mon-Fri",
+            "Hours": "9:00AM-9:00PM"
+        }, {
+            "Days": "Sat",
+            "Hours": "9:00AM-8:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-7:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.dublinhonda.com",
+        "Latitude": 37.705547,
+        "Longitude": -121.90815,
+        "DrivingDistanceMiles": 11.2,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "BV",
+            "Name": "Battery Electric Vehicle",
+            "Description": "Dealer is authorized for Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "BC",
+            "Name": "Clarity Battery Electric Vehic",
+            "Description": "Dealer is authorized for Clarity Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "46",
+            "Name": "CVA Enhanced Purchase Program",
+            "Description": "Dealer is participating in CVA Enhanced Purchase Program",
+            "FullDescription": null
+        }, {
+            "Code": "22",
+            "Name": "DEALER LONG TERM DEBT NOTE FL",
+            "Description": "DEALER HAS LONG TERM DEBT NOTE",
+            "FullDescription": null
+        }, {
+            "Code": "09",
+            "Name": "Express Service Program",
+            "Description": "Dealer Participates in the Express Service Program",
+            "FullDescription": null
+        }, {
+            "Code": "FC",
+            "Name": "Fuel Cell Authorized",
+            "Description": "Dealer is authorized for Honda Fuel Cell Vehicle Sales and Lease",
+            "FullDescription": null
+        }, {
+            "Code": "04",
+            "Name": "GX Fleet",
+            "Description": "Dealer is authorized for GX Fleet Sales",
+            "FullDescription": null
+        }, {
+            "Code": "45",
+            "Name": "GX Retail",
+            "Description": "Dealer is authorized for GX Retail Sales",
+            "FullDescription": null
+        }, {
+            "Code": "05",
+            "Name": "GX Service",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "GG",
+            "Name": "Honda Environment Award Gold",
+            "Description": "Honda Environmental Leadership Award - Gold Level",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "11",
+            "Name": "Oil Certified",
+            "Description": "Dealer purchases Honda Genuine Oil",
+            "FullDescription": null
+        }, {
+            "Code": "13",
+            "Name": "PAX Certified Service",
+            "Description": "Dealers Certified to Service PAX Tires",
+            "FullDescription": null
+        }, {
+            "Code": "EV",
+            "Name": "Plug-in Hybrid Electric Vehicl",
+            "Description": "Dealer is authorized for Plug-in Hybrid Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }, {
+            "Code": "12",
+            "Name": "Tire Certified",
+            "Description": "Dealer purchases Honda Genuine Tires",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "206538",
+        "ASARanking": "",
+        "Name": "Larry Hopkins Honda",
+        "InternetManager": "Dan Walch",
+        "Address": "1048 W El Camino Real",
+        "City": "Sunnyvale",
+        "State": "CA",
+        "ZipCode": "940871024",
+        "Phone": "4087201999 ",
+        "SalesHours": [{
+            "Days": "Mon-Sat",
+            "Hours": "9:00AM-9:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-8:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.larryhopkinshonda.com",
+        "Latitude": 37.372017,
+        "Longitude": -122.05051,
+        "DrivingDistanceMiles": 13.2,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "BV",
+            "Name": "Battery Electric Vehicle",
+            "Description": "Dealer is authorized for Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "06",
+            "Name": "Child Safety Day",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "46",
+            "Name": "CVA Enhanced Purchase Program",
+            "Description": "Dealer is participating in CVA Enhanced Purchase Program",
+            "FullDescription": null
+        }, {
+            "Code": "22",
+            "Name": "DEALER LONG TERM DEBT NOTE FL",
+            "Description": "DEALER HAS LONG TERM DEBT NOTE",
+            "FullDescription": null
+        }, {
+            "Code": "05",
+            "Name": "GX Service",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "GS",
+            "Name": "Honda Environment Award Silver",
+            "Description": "Honda Environmental Leadership Award - Silver Level",
+            "FullDescription": null
+        }, {
+            "Code": "03",
+            "Name": "Honda Test Drive Enabled",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "11",
+            "Name": "Oil Certified",
+            "Description": "Dealer purchases Honda Genuine Oil",
+            "FullDescription": null
+        }, {
+            "Code": "EV",
+            "Name": "Plug-in Hybrid Electric Vehicl",
+            "Description": "Dealer is authorized for Plug-in Hybrid Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }, {
+            "Code": "12",
+            "Name": "Tire Certified",
+            "Description": "Dealer purchases Honda Genuine Tires",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "208196",
+        "ASARanking": "",
+        "Name": "San Leandro Honda",
+        "InternetManager": "Customer Service",
+        "Address": "1302 Marina Blvd",
+        "City": "San Leandro",
+        "State": "CA",
+        "ZipCode": "945773325",
+        "Phone": "5103475100 ",
+        "SalesHours": [{
+            "Days": "Mon-Sat",
+            "Hours": "9:00AM-9:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-7:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.sanleandrohonda.com",
+        "Latitude": 37.712185,
+        "Longitude": -122.1636,
+        "DrivingDistanceMiles": 14.3,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "BV",
+            "Name": "Battery Electric Vehicle",
+            "Description": "Dealer is authorized for Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "06",
+            "Name": "Child Safety Day",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "46",
+            "Name": "CVA Enhanced Purchase Program",
+            "Description": "Dealer is participating in CVA Enhanced Purchase Program",
+            "FullDescription": null
+        }, {
+            "Code": "04",
+            "Name": "GX Fleet",
+            "Description": "Dealer is authorized for GX Fleet Sales",
+            "FullDescription": null
+        }, {
+            "Code": "45",
+            "Name": "GX Retail",
+            "Description": "Dealer is authorized for GX Retail Sales",
+            "FullDescription": null
+        }, {
+            "Code": "05",
+            "Name": "GX Service",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "03",
+            "Name": "Honda Test Drive Enabled",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "11",
+            "Name": "Oil Certified",
+            "Description": "Dealer purchases Honda Genuine Oil",
+            "FullDescription": null
+        }, {
+            "Code": "OD",
+            "Name": "Online Retailing Dealer",
+            "Description": "This dealership participates in the Honda Online Retailing program",
+            "FullDescription": null
+        }, {
+            "Code": "13",
+            "Name": "PAX Certified Service",
+            "Description": "Dealers Certified to Service PAX Tires",
+            "FullDescription": null
+        }, {
+            "Code": "EV",
+            "Name": "Plug-in Hybrid Electric Vehicl",
+            "Description": "Dealer is authorized for Plug-in Hybrid Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }, {
+            "Code": "12",
+            "Name": "Tire Certified",
+            "Description": "Dealer purchases Honda Genuine Tires",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "208461",
+        "ASARanking": "",
+        "Name": "Primo Honda",
+        "InternetManager": "Gary Hutchinson",
+        "Address": "777 Industrial Rd",
+        "City": "San Carlos",
+        "State": "CA",
+        "ZipCode": "940703310",
+        "Phone": "6504253093 ",
+        "SalesHours": [{
+            "Days": "Mon-Sat",
+            "Hours": "9:00AM-8:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-7:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.primohonda.com",
+        "Latitude": 37.508331,
+        "Longitude": -122.25166,
+        "DrivingDistanceMiles": 14.7,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "BV",
+            "Name": "Battery Electric Vehicle",
+            "Description": "Dealer is authorized for Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "19",
+            "Name": "Certified Express Service",
+            "Description": "Dealer is Certified for Express Service Logo",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "46",
+            "Name": "CVA Enhanced Purchase Program",
+            "Description": "Dealer is participating in CVA Enhanced Purchase Program",
+            "FullDescription": null
+        }, {
+            "Code": "22",
+            "Name": "DEALER LONG TERM DEBT NOTE FL",
+            "Description": "DEALER HAS LONG TERM DEBT NOTE",
+            "FullDescription": null
+        }, {
+            "Code": "09",
+            "Name": "Express Service Program",
+            "Description": "Dealer Participates in the Express Service Program",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "03",
+            "Name": "Honda Test Drive Enabled",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "EV",
+            "Name": "Plug-in Hybrid Electric Vehicl",
+            "Description": "Dealer is authorized for Plug-in Hybrid Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "208049",
+        "ASARanking": "",
+        "Name": "Livermore Honda",
+        "InternetManager": "Internet sales Dept",
+        "Address": "3200 Las Positas Rd",
+        "City": "Livermore",
+        "State": "CA",
+        "ZipCode": "945519606",
+        "Phone": "9254471100 ",
+        "SalesHours": [{
+            "Days": "Mon-Fri",
+            "Hours": "9:00AM-8:00PM"
+        }, {
+            "Days": "Sat",
+            "Hours": "9:00AM-7:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-6:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.livermorehonda.com",
+        "Latitude": 37.700882,
+        "Longitude": -121.75988,
+        "DrivingDistanceMiles": 16.1,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "46",
+            "Name": "CVA Enhanced Purchase Program",
+            "Description": "Dealer is participating in CVA Enhanced Purchase Program",
+            "FullDescription": null
+        }, {
+            "Code": "05",
+            "Name": "GX Service",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "11",
+            "Name": "Oil Certified",
+            "Description": "Dealer purchases Honda Genuine Oil",
+            "FullDescription": null
+        }, {
+            "Code": "13",
+            "Name": "PAX Certified Service",
+            "Description": "Dealers Certified to Service PAX Tires",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }, {
+            "Code": "12",
+            "Name": "Tire Certified",
+            "Description": "Dealer purchases Honda Genuine Tires",
+            "FullDescription": null
+        }]
+    }, {
+        "DealerNumber": "206795",
+        "ASARanking": "",
+        "Name": "Honda of Stevens Creek",
+        "InternetManager": "Chadd Clowes",
+        "Address": "4590 Stevens Creek Blvd",
+        "City": "San Jose",
+        "State": "CA",
+        "ZipCode": "951291105",
+        "Phone": "8007340399 ",
+        "SalesHours": [{
+            "Days": "Mon-Sat",
+            "Hours": "9:00AM-9:00PM"
+        }, {
+            "Days": "Sun",
+            "Hours": "10:00AM-8:00PM"
+        }],
+        "PartsPhone": null,
+        "PartsHours": null,
+        "IsServiceCenter": false,
+        "ServicePhone": null,
+        "ServiceHours": null,
+        "WebAddress": "https://www.hondaofstevenscreek.com",
+        "Latitude": 37.322498,
+        "Longitude": -121.98344,
+        "DrivingDistanceMiles": 16.2,
+        "DealerDistanceMiles": null,
+        "Attributes": [{
+            "Code": "HF",
+            "Name": "AHFC Certified Dealer",
+            "Description": "AHFC Certified Honda Auto Dealer",
+            "FullDescription": null
+        }, {
+            "Code": "BV",
+            "Name": "Battery Electric Vehicle",
+            "Description": "Dealer is authorized for Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "CU",
+            "Name": "Certified Used Dealer",
+            "Description": "Dealer Locator only, not on mainframe.",
+            "FullDescription": null
+        }, {
+            "Code": "BC",
+            "Name": "Clarity Battery Electric Vehic",
+            "Description": "Dealer is authorized for Clarity Battery Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "HC",
+            "Name": "Council of Excellence Award",
+            "Description": "This dealership has earned the Council of Excellence award from Honda Financial Services.",
+            "FullDescription": null
+        }, {
+            "Code": "46",
+            "Name": "CVA Enhanced Purchase Program",
+            "Description": "Dealer is participating in CVA Enhanced Purchase Program",
+            "FullDescription": null
+        }, {
+            "Code": "FC",
+            "Name": "Fuel Cell Authorized",
+            "Description": "Dealer is authorized for Honda Fuel Cell Vehicle Sales and Lease",
+            "FullDescription": null
+        }, {
+            "Code": "04",
+            "Name": "GX Fleet",
+            "Description": "Dealer is authorized for GX Fleet Sales",
+            "FullDescription": null
+        }, {
+            "Code": "45",
+            "Name": "GX Retail",
+            "Description": "Dealer is authorized for GX Retail Sales",
+            "FullDescription": null
+        }, {
+            "Code": "05",
+            "Name": "GX Service",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "08",
+            "Name": "Honda EItems Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "GS",
+            "Name": "Honda Environment Award Silver",
+            "Description": "Honda Environmental Leadership Award - Silver Level",
+            "FullDescription": null
+        }, {
+            "Code": "03",
+            "Name": "Honda Test Drive Enabled",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "01",
+            "Name": "Internet Certified",
+            "Description": "",
+            "FullDescription": null
+        }, {
+            "Code": "MC",
+            "Name": "Masters Circle",
+            "Description": "\"Honda Masters Circle dealerships achieved superior sales performance, ranking top 50 in the nation.",
+            "FullDescription": null
+        }, {
+            "Code": "11",
+            "Name": "Oil Certified",
+            "Description": "Dealer purchases Honda Genuine Oil",
+            "FullDescription": null
+        }, {
+            "Code": "13",
+            "Name": "PAX Certified Service",
+            "Description": "Dealers Certified to Service PAX Tires",
+            "FullDescription": null
+        }, {
+            "Code": "EV",
+            "Name": "Plug-in Hybrid Electric Vehicl",
+            "Description": "Dealer is authorized for Plug-in Hybrid Electric Vehicle Sales",
+            "FullDescription": null
+        }, {
+            "Code": "X2",
+            "Name": "Retail and Service Dealer",
+            "Description": "This dealer does both Retail and Service",
+            "FullDescription": null
+        }, {
+            "Code": "48",
+            "Name": "Service - XTime Program",
+            "Description": "Dealer is participating in XTime program for Online Service Scheduling",
+            "FullDescription": null
+        }, {
+            "Code": "12",
+            "Name": "Tire Certified",
+            "Description": "Dealer purchases Honda Genuine Tires",
+            "FullDescription": null
+        }]
+    }],
+    "inventory": [{
+        "DealerNumber": "206890",
+        "ModelId": "FK8G7MGW",
+        "ModelYear": "2021",
+        "ModelGroupName": "Civic Type R",
+        "ModelTrim": "TOURING",
+        "ModelMarketingName": "TOURING",
+        "Transmission": "6MT",
+        "TransmissionMarketingName": "6 Speed Manual",
+        "VINs": [{
+            "VIN": "SHHFK8G72MU200440",
+            "OnlineRetailingPreferredVIN": null,
+            "VehicleDetailPageURL": null
+        }],
+        "ModelBaseColor": "White",
+        "ExteriorColor": "Championship White",
+        "ExteriorColorMfgCode": "NH-0",
+        "InteriorColor": "Black/Red",
+        "InteriorColorCode": "BR",
+        "ModelMSRP": "37890.00",
+        "DHCost": "955.00",
+        "NumberOnSite": 0,
+        "NumberInTransit": 1
+    }, {
+        "DealerNumber": "206795",
+        "ModelId": "FK8G7MGW",
+        "ModelYear": "2021",
+        "ModelGroupName": "Civic Type R",
+        "ModelTrim": "TOURING",
+        "ModelMarketingName": "TOURING",
+        "Transmission": "6MT",
+        "TransmissionMarketingName": "6 Speed Manual",
+        "VINs": [{
+            "VIN": "SHHFK8G75MU200335",
+            "OnlineRetailingPreferredVIN": null,
+            "VehicleDetailPageURL": null
+        }],
+        "ModelBaseColor": "Red",
+        "ExteriorColor": "Rallye Red",
+        "ExteriorColorMfgCode": "R-513",
+        "InteriorColor": "Black/Red",
+        "InteriorColorCode": "BR",
+        "ModelMSRP": "37495.00",
+        "DHCost": "955.00",
+        "NumberOnSite": 0,
+        "NumberInTransit": 1
+    }, {
+        "DealerNumber": "208059",
+        "ModelId": "FK8G7MGW",
+        "ModelYear": "2021",
+        "ModelGroupName": "Civic Type R",
+        "ModelTrim": "TOURING",
+        "ModelMarketingName": "TOURING",
+        "Transmission": "6MT",
+        "TransmissionMarketingName": "6 Speed Manual",
+        "VINs": [{
+            "VIN": "SHHFK8G74MU200312",
+            "OnlineRetailingPreferredVIN": null,
+            "VehicleDetailPageURL": null
+        }],
+        "ModelBaseColor": "Blue",
+        "ExteriorColor": "Boost Blue Pearl",
+        "ExteriorColorMfgCode": "B-637P",
+        "InteriorColor": "Black/Red",
+        "InteriorColorCode": "BR",
+        "ModelMSRP": "37890.00",
+        "DHCost": "955.00",
+        "NumberOnSite": 0,
+        "NumberInTransit": 1
+    }, {
+        "DealerNumber": "208461",
+        "ModelId": "FK8G7MGW",
+        "ModelYear": "2021",
+        "ModelGroupName": "Civic Type R",
+        "ModelTrim": "TOURING",
+        "ModelMarketingName": "TOURING",
+        "Transmission": "6MT",
+        "TransmissionMarketingName": "6 Speed Manual",
+        "VINs": [{
+            "VIN": "SHHFK8G70MU200159",
+            "OnlineRetailingPreferredVIN": null,
+            "VehicleDetailPageURL": null
+        }],
+        "ModelBaseColor": "Black",
+        "ExteriorColor": "Crystal Black Pearl",
+        "ExteriorColorMfgCode": "NH-731P",
+        "InteriorColor": "Black/Red",
+        "InteriorColorCode": "BR",
+        "ModelMSRP": "37495.00",
+        "DHCost": "955.00",
+        "NumberOnSite": 0,
+        "NumberInTransit": 1
+    }, {
+        "DealerNumber": "208776",
+        "ModelId": "FK8G7MGW",
+        "ModelYear": "2021",
+        "ModelGroupName": "Civic Type R",
+        "ModelTrim": "TOURING",
+        "ModelMarketingName": "TOURING",
+        "Transmission": "6MT",
+        "TransmissionMarketingName": "6 Speed Manual",
+        "VINs": [{
+            "VIN": "SHHFK8G7XMU200167",
+            "OnlineRetailingPreferredVIN": null,
+            "VehicleDetailPageURL": null
+        }],
+        "ModelBaseColor": "Red",
+        "ExteriorColor": "Rallye Red",
+        "ExteriorColorMfgCode": "R-513",
+        "InteriorColor": "Black/Red",
+        "InteriorColorCode": "BR",
+        "ModelMSRP": "37495.00",
+        "DHCost": "955.00",
+        "NumberOnSite": 0,
+        "NumberInTransit": 1
+    }],
+    "msrpdisclaimer": {
+        "id": "msrp---cars",
+        "title": "MSRP",
+        "description": "MSRP excluding tax, license, registration, $955 destination charge and accessories. Dealer prices may vary. MSRP does not include $395 charge for select premium colors. $395 charge only applies to 2021 models."
+    },
+    "disclaimers": null,
+    "models": {
+        "FK8G7MGW": {
+            "Packages": ["3E78974877BA49F3AED302B08084FA59", "71A8A1963FEF41B5969B9EA0B907911F"],
+            "Powertrain": ["76DDAF14100E45A59A0DA3758333B38A"],
+            "VehiclePhotos": {
+                "NH-0": {
+                    "BR": ["https://automobiles.honda.com/platform/api/v3/images/Exterior/02?config=M:FK8G7MGW$EC:NH-0$IC:BR", "https://automobiles.honda.com/platform/api/v3/images/Exterior/04?config=M:FK8G7MGW$EC:NH-0$IC:BR"]
+                },
+                "R-513": {
+                    "BR": ["https://automobiles.honda.com/platform/api/v3/images/Exterior/02?config=M:FK8G7MGW$EC:R-513$IC:BR", "https://automobiles.honda.com/platform/api/v3/images/Exterior/04?config=M:FK8G7MGW$EC:R-513$IC:BR"]
+                },
+                "B-637P": {
+                    "BR": ["https://automobiles.honda.com/platform/api/v3/images/Exterior/02?config=M:FK8G7MGW$EC:B-637P$IC:BR", "https://automobiles.honda.com/platform/api/v3/images/Exterior/04?config=M:FK8G7MGW$EC:B-637P$IC:BR"]
+                },
+                "NH-731P": {
+                    "BR": ["https://automobiles.honda.com/platform/api/v3/images/Exterior/02?config=M:FK8G7MGW$EC:NH-731P$IC:BR", "https://automobiles.honda.com/platform/api/v3/images/Exterior/04?config=M:FK8G7MGW$EC:NH-731P$IC:BR"]
+                }
+            },
+            "FabricType": "cloth",
+            "ModelHighlightFeature": "",
+            "ModelMarketingName": "Civic Type R"
+        }
+    },
+    "vehiclemodelseriesname": "Civic Type R",
+    "noexactimage": "/-/media/Images/Inventory/FindItForMe7682x.jpg",
+    "ZipCodeSent": "94536",
+    "IsValidZip": true
+}
